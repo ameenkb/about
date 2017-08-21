@@ -6,7 +6,7 @@
   
   - THE CLASSROOM/FABLAB
   
-  [<img src="https://ameenkb.github.io/Images/Class 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 01.jpg) [<img src="https://ameenkb.github.io/Images/Class 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 03.jpg) [<img src="Images/Classroom.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Classroom.jpg)
+  [<img src="https://ameenkb.github.io/Images/Class 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 01.jpg) [<img src="https://ameenkb.github.io/Images/Class 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 03.jpg) [<img src="https://ameenkb.github.io/Images/Classroom.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Classroom.jpg)
   
   - CLASS LEAD BY MR. MUHAMMED JASEEL
   
