@@ -63,6 +63,20 @@
   - VINYL CUTTING MACHINE
   
   [<img src="https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg)
+  
+- **WORK PIECES**
+
+  - 3D PRINTED DOOR LOCK SUPPORT
+  
+  [<img src="https://ameenkb.github.io/Images/DL.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DL.jpg) [<img src="https://ameenkb.github.io/Images/DLS.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS.jpg) [<img src="https://ameenkb.github.io/Images/DLS Complete 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS Complete 1.jpg) [<img src="https://ameenkb.github.io/Images/DLS Complete 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS Complete 2.jpg) [<img src="https://ameenkb.github.io/Images/DLS Complete 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS Complete 3.jpg) [<img src="https://ameenkb.github.io/Images/DLS Complete 4.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS Complete 4.jpg) [<img src="https://ameenkb.github.io/Images/DLS Step 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/DLS Step 3.jpg)
+  
+  - LASER CUTTED SMARTPHONE STAND
+  
+  [<img src="https://ameenkb.github.io/Images/LC Complete 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 1.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 2.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 3.jpg) [<img src="https://ameenkb.github.io/Images/LC Process 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process 1.jpg) [<img src="https://ameenkb.github.io/Images/LC Process 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process 2.jpg) [<img src="https://ameenkb.github.io/Images/LC Process 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process 3.jpg) [<img src="https://ameenkb.github.io/Images/LC Process 4.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process 4.jpg)
+  
+  - VINYL CUTTED BTS LOGO STICKER
+  
+    [<img src="https://ameenkb.github.io/Images/LC Complete 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 1.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 2.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 3.jpg) [<img src="https://ameenkb.github.io/Images/LC Design.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Design.jpg) [<img src="https://ameenkb.github.io/Images/LC Process.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process.jpg) 
 
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
