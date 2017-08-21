@@ -6,7 +6,7 @@
   
   - THE CLASSROOM/FABLAB
   
-  [<img src="Images/Class 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 01.jpg) [<img src="https://ameenkb.github.io/Images/Class 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 03.jpg) [<img src="Images/Classroom.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Classroom.jpg)
+  [<img src="https://ameenkb.github.io/Images/Class 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 01.jpg) [<img src="https://ameenkb.github.io/Images/Class 03.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Class 03.jpg) [<img src="Images/Classroom.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Classroom.jpg)
   
   - CLASS LEAD BY MR. MUHAMMED JASEEL
   
@@ -65,6 +65,6 @@
   [<img src="https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg)
 
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO TOP ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#contents)  [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) BACK TO SECTIONAL CONTENTS ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io/#sectional-contents)
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
