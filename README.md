@@ -12,6 +12,8 @@
   
   [<img src="https://ameenkb.github.io/Images/Lecture 01.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Lecture 01.jpg)
   
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
 - **3D PRINTER**
 
   - THE ULTIMAKER 3D PRINTER
@@ -42,6 +44,8 @@
 
   [<img src="https://ameenkb.github.io/Images/Prototype Printing 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 1.jpg) [<img src="https://ameenkb.github.io/Images/Prototype Printing 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Prototype Printing 2.jpg)
 
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+
 - **CNC MACHINES**
 
   - CNC
@@ -63,6 +67,8 @@
   - VINYL CUTTING MACHINE
   
   [<img src="https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Vinyl Cutting Machine.jpg)
+  
+  ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
 - **WORK PIECES**
 
