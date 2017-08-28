@@ -84,6 +84,21 @@
   
     [<img src="https://ameenkb.github.io/Images/LC Complete 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 1.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 2.jpg) [<img src="https://ameenkb.github.io/Images/LC Complete 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Complete 3.jpg) [<img src="https://ameenkb.github.io/Images/LC Design.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Design.jpg) [<img src="https://ameenkb.github.io/Images/LC Process.jpg" height="234" width="416">](https://ameenkb.github.io/Images/LC Process.jpg) 
 
+  - GOOGLE CARDBOARD
+  
+     [<img src="https://ameenkb.github.io/Images/Cardboard 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Cardboard 1.jpg)  [<img src="https://ameenkb.github.io/Images/Cardboard 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/Cardboard 2.jpg)  [<img src="https://ameenkb.github.io/Images/GC 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/GC 1.jpg)  [<img src="https://ameenkb.github.io/Images/GC 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/GC 2.jpg) 
+  
+  - PCB
+  
+     [<img src="https://ameenkb.github.io/Images/PCBD 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBD 1.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM 1.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM2.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM 3.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM 4.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM 4.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM 5.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM 5.jpg)  [<img src="https://ameenkb.github.io/Images/PCBM 6.jpg" height="234" width="416">](https://ameenkb.github.io/Images/PCBM 6.jpg) 
+     
+- MOULDING AND CASTING
+
+  [<img src="https://ameenkb.github.io/Images/M 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 1.jpg)  [<img src="https://ameenkb.github.io/Images/M 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 2.jpg)  [<img src="https://ameenkb.github.io/Images/M 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 3.jpg)  [<img src="https://ameenkb.github.io/Images/M 4.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 4.jpg)  [<img src="https://ameenkb.github.io/Images/M 5.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 5.jpg)  [<img src="https://ameenkb.github.io/Images/M 6.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 6.jpg)  [<img src="https://ameenkb.github.io/Images/M 7.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 7.jpg)  [<img src="https://ameenkb.github.io/Images/M 8.jpg" height="234" width="416">](https://ameenkb.github.io/Images/M 8.jpg)
+  
+- SCREEN PRINTING
+
+  [<img src="https://ameenkb.github.io/Images/SP 1.jpg" height="234" width="416">](https://ameenkb.github.io/Images/SP 1.jpg)[<img src="https://ameenkb.github.io/Images/SP 2.jpg" height="234" width="416">](https://ameenkb.github.io/Images/SP 2.jpg)[<img src="https://ameenkb.github.io/Images/SP 3.jpg" height="234" width="416">](https://ameenkb.github.io/Images/SP 3.jpg)
 
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
 
